@@ -1,0 +1,5 @@
+title: "My Book Blog"
+description: "Book summaries with YouTube links"
+baseurl: "/Mywebsite1"
+url: "https://bahmanabl.github.io"
+theme: minima
