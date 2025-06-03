@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   {% assign posts = site.posts | where: "category", page.category %}
   {% for post in posts %}
