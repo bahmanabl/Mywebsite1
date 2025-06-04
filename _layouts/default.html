@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }} - {{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
@@ -20,8 +20,12 @@
   </header>
 
   <main class="page-content">
-    <div class="container">
-    {{ content }}
+    <div class="page-wrapper">
+      <div class="sidebar left"></div>
+      <div class="content-container">
+        {{ content }}
+      </div>
+      <div class="sidebar right"></div>
     </div>
   </main>
 </body>
