@@ -110,3 +110,12 @@ body {
   line-height: 1.6;          /* Improved readability */
 }
 
+
+.post-date,
+.entry-date,
+.date,
+.meta-date {
+  display: none !important;
+}
+
+
