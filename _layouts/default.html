@@ -8,7 +8,7 @@
 <body>
   <header class="site-header">
     <div class="nav-container">
-      <img src="/assets/logo.png" alt="RAGWise Logo" class="logo">
+      <img src="{{ '/assets/logo.png' | relative_url }}" alt="RAGWise Logo" class="logo">
       <span class="site-title">{{ site.title }}</span>
       <nav class="nav-links">
         <a href="{{ '/' | relative_url }}">Home</a>
@@ -20,7 +20,9 @@
   </header>
 
   <main class="page-content">
+    <div class="container">
     {{ content }}
+    </div>
   </main>
 </body>
 </html>
