@@ -2,17 +2,26 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h2 style="text-align: left;">{{ page.title }}</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+<div style="display: flex; flex-direction: column; gap: 1.5rem;">
   {% assign posts = site.posts | where: "category", page.category %}
   {% for post in posts %}
-    <div style="border: 1px solid #ccc; padding: 1rem;">
+    <div style="display: flex; align-items: flex-start; gap: 1rem; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+      
+      <!-- Thumbnail -->
       <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image }}" style="width: 100%;">
-        <h3>{{ post.title }}</h3>
+        <img src="{{ post.image }}" alt="Thumbnail for {{ post.title }}"
+             style="width: 180px; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px;">
       </a>
-      <p>{{ post.date | date: "%d %b %Y" }}</p>
+
+      <!-- Title + Date -->
+      <div>
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0077cc;">
+          <h3 style="margin: 0 0 0.5rem 0;">{{ post.title }}</h3>
+        </a>
+        <p style="margin: 0; color: #666;">{{ post.date | date: "%d %b %Y" }}</p>
+      </div>
     </div>
   {% endfor %}
 </div>
