@@ -2,7 +2,7 @@
 layout: post
 title: "What the Dog Saw Malcolm Gladwell Book Summary"
 date: 2025-06-03
-category: psychology
+category: Psychology
 image: https://img.youtube.com/vi/5g9wN98d24c/mqdefault.jpg
 youtube: https://www.youtube.com/embed/5g9wN98d24c
 ---
