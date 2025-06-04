@@ -1,5 +1,6 @@
 ---
 layout: category
-title: "Money"
+title: Money
 category: Money
+permalink: /Money/
 ---

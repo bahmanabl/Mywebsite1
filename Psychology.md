@@ -1,5 +1,6 @@
 ---
 layout: category
-title: "Psychology"
+title: Psychology
 category: Psychology
+permalink: /Psychology/
 ---
