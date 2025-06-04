@@ -100,11 +100,13 @@ body {
 }
 
 .boxed {
-  background-color: #f9f9f9;
-  border: 2px solid #ccc;
-  padding: 1.5rem;
-  margin: 2rem 0;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9; /* Light gray background */
+  border: 1px solid #ddd;    /* Subtle border */
+  border-radius: 8px;        /* Rounded corners */
+  padding: 1.5rem;           /* Inner spacing */
+  margin: 2rem 0;            /* Vertical spacing */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Soft shadow */
+  font-size: 1.1rem;         /* Slightly larger font */
+  line-height: 1.6;          /* Improved readability */
 }
 
