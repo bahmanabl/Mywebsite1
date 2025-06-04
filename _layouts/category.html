@@ -1,21 +1,41 @@
----
-layout: default
----
-
-<h2 style="text-align: center;">{{ page.title }}</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; padding: 1rem 2rem;">
-  {% assign posts = site.posts | where: "category", page.category %}
-  {% for post in posts %}
-    <div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.05); text-align: center;">
-      <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
-        <img src="{{ post.image }}" alt="{{ post.title }}" 
-        style="width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; border-radius: 6px; margin-top: 1rem;">
-        <div style="padding: 1rem;">
-          <h3 style="margin: 0; font-size: 1.1rem;">{{ post.title }}</h3>
-        </div>
-      </a>
-      <p style="margin: 0 0 1rem 0; color: #888;">{{ post.date | date: "%d %b %Y" }}</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-container">
+      <img src="{{ '/assets/logo.png' | relative_url }}" alt="RAGWise Logo" class="logo">
+      <span class="site-title">{{ site.title }}</span>
+      <nav class="nav-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="https://newsletter-link.com" target="_blank">Subscribe</a>
+      </nav>
     </div>
-  {% endfor %}
-</div>
+  </header>
+
+  <main class="page-content">
+    <h2 style="text-align: center;">{{ page.title }}</h2>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; padding: 1rem 2rem;">
+      {% assign posts = site.posts | where: "category", page.category %}
+      {% for post in posts %}
+        <div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.05); text-align: center;">
+          <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+            <img src="{{ post.image }}" alt="{{ post.title }}" 
+              style="width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; border-radius: 6px; margin-top: 1rem;">
+            <div style="padding: 1rem;">
+              <h3 style="margin: 0; font-size: 1.1rem;">{{ post.title }}</h3>
+            </div>
+          </a>
+          <p style="margin: 0 0 1rem 0; color: #888;">{{ post.date | date: "%d %b %Y" }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </main>
+</body>
+</html>
