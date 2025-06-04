@@ -61,7 +61,7 @@ body {
 
 .content-container {
   flex: 1;
-  max-width: 650px;
+  max-width: 80vw;
   font-size: 1.15rem;
   line-height: 1.8;
   padding: 2rem 1rem;
