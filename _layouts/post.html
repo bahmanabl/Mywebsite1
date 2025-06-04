@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="content-container">
+  <h1>{{ page.title }}</h1>
+  <p><em>{{ page.date | date: "%B %d, %Y" }}</em></p>
+  {{ content }}
+</article>
+
+<!-- Related Posts -->
+{% assign related_posts = site.categories[page.category] | where_exp: "post", "post.url != page.url" | slice: 0, 3 %}
+
+{% if related_posts.size > 0 %}
+  <section class="content-container boxed">
+    <h2>Related Posts in {{ page.category }}</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
+      {% for post in related_posts %}
+        <div style="flex: 1 1 30%; min-width: 280px;">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; border-radius: 8px;">
+            {% endif %}
+            <h3>{{ post.title }}</h3>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div style="margin-top: 1rem; text-align: center;">
+      <a href="/categories/{{ page.category | downcase | replace: ' ', '-' }}/" class="button" style="text-decoration: none; background: black; color: white; padding: 0.75rem 1.5rem; border-radius: 5px;">
+        View All {{ page.category }} Posts
+      </a>
+    </div>
+  </section>
+{% endif %}
