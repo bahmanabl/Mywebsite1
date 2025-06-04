@@ -84,7 +84,7 @@ body {
 .video-wrapper {
   position: relative;
   width: 100%;
-  max-width: 720px;
+  max-width: 1000px;
   margin: 0 auto;
   padding-bottom: 56.25%;
   height: 0;
