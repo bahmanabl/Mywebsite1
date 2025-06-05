@@ -8,14 +8,18 @@ layout: default
   {{ content }}
 
   {% if page.download_link or page.amazon_link %}
-    <div style="margin-top: 2rem; margin-bottom: 1rem;">
+    <div style="text-align: center; margin-top: 2rem; margin-bottom: 1rem;">
       {% if page.download_link %}
-        <a href="{{ page.download_link }}" style="margin-right: 2rem; color: blue; text-decoration: underline;">
+        <a href="{{ page.download_link }}" 
+           target="_blank" rel="noopener noreferrer"
+           style="margin: 0 1rem; color: blue; text-decoration: underline; font-size: 1rem;">
           Download pdf Summary
         </a>
       {% endif %}
       {% if page.amazon_link %}
-        <a href="{{ page.amazon_link }}" style="color: blue; text-decoration: underline;">
+        <a href="{{ page.amazon_link }}" 
+           target="_blank" rel="noopener noreferrer"
+           style="margin: 0 1rem; color: blue; text-decoration: underline; font-size: 1rem;">
           This Book on Amazon
         </a>
       {% endif %}
