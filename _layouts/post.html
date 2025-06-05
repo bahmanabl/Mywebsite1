@@ -11,8 +11,15 @@ layout: default
 <!-- Related Posts Section -->
 {% assign related_posts = site.categories[page.category] | where_exp: "post", "post.url != page.url" | slice: 0, 3 %}
 {% if related_posts.size > 0 %}
-  <section class="content-container boxed">
-    <h2>Related Posts in {{ page.category }}</h2>
+  <section class="content-container boxed" style="margin-top: 1rem;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem;">
+      <h2 style="margin: 0;">Related Posts in {{ page.category }}</h2>
+      <a href="/categories/{{ page.category | downcase | replace: ' ', '-' }}/"
+         style="color: blue; font-size: 0.95rem; text-decoration: none;">
+        See More →
+      </a>
+    </div>
+
     <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: space-between;">
       {% for post in related_posts %}
         <div style="flex: 1 1 30%; min-width: 260px;">
@@ -24,14 +31,6 @@ layout: default
           </a>
         </div>
       {% endfor %}
-    </div>
-
-    <div style="margin-top: 0.5rem; text-align: center;">
-      <a href="/categories/{{ page.category | downcase | replace: ' ', '-' }}/" 
-         class="button" 
-         style="display: inline-block; padding: 0.75rem 1.5rem; background: green; color: blue; border-radius: 5px; text-decoration: none;">
-        View All {{ page.category }} Posts
-      </a>
     </div>
   </section>
 {% endif %}
