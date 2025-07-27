@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/bahmanabolhassani/" target="_blank">
+    <img src="/assets/bahman.png" alt="Bahman Abolhassani" width="200" style="border-radius: 10px;">
+  </a>
+</div>
 
 
 My name is Bahman Abolhassani and I'm on a mission to become the best version of myself! A while back I found myself in one of the darkest winters of my life, feeling lost and hopeless. That's when I discovered the incredible teachings of Jim Rohn. 
