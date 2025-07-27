@@ -22,7 +22,7 @@ Have you ever thought about how our world is constantly changing? The market dem
 
  
 
-Key Lesson #1: Always do feedback analysis to learn your strength and weaknesses.
+# Key Lesson #1: Always do feedback analysis to learn your strength and weaknesses.
 
 
 You know how the important stuff in life needs a strong base? Well, the same goes for your future success. Start with a feedback analysis to find your strengths and weaknesses. Here's a quick way: when you make a big decision, jot down what you expect to happen. A year later, compare that with what actually went down. It helps you figure out your strengths and weaknesses. Focus on developing your strengths and working on your weaknesses to keep growing. Also, make sure your work aligns with your core values to stay on the right path. It's like a guide for building success.
