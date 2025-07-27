@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Money
-permalink: /categories/money/
+permalink: /money/
 ---
 
 <h1>Posts in Category: Money</h1>
