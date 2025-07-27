@@ -1,6 +1,6 @@
 title: "RAGWise"
 description: "Read And Grow Wise: Book summaries with YouTube links"
 baseurl: "/Mywebsite1"
-url: "https://bahmanabl.github.io"
-theme: minima
+url: "https://www.readandgrowwise.com"
+theme: null
 permalink: /:categories/:title.html
