@@ -16,7 +16,16 @@ youtube: https://www.youtube.com/embed/mzeVBlaDDio
   </iframe>
 </div>
 
-
+<div style="width: 80%; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%; border-radius: 12px;">
+    <iframe 
+      src="https://www.youtube.com/embed/XBfahxP348Q" 
+      frameborder="0" 
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
 
 Have you ever thought about how our world is constantly changing? The market demands are always fluctuating, and our personal needs and values are changing faster than ever before. To keep up with these changes and the dynamic nature of our world, we need to improve ourselves and develop skills that can help us navigate these winds of change. Unfortunately, many people lag behind their peers because they lack direction. That's where Managing Oneself by Peter F. Drucker comes in. It's a book that focuses on self-improvement strategies that we all need, starting with getting to know ourselves and identifying our strengths and communication style. The book also teaches us how to be successful despite our weaknesses, which is a powerful skill in itself. So, the big question is, how can we achieve all of this? In this summary, I’ll share with you three key lessons that I learned from the book.
 
