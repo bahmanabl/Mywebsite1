@@ -3,6 +3,14 @@ layout: default
 title: Psychology
 permalink: /psychology/
 ---
+<nav class="category-bar">
+  <a href="/" {% if page.url == "/" %}class="active"{% endif %}>All Posts</a>
+  <a href="/personal-development/" {% if page.url == "/personal-development/" %}class="active"{% endif %}>Personal Development</a>
+  <a href="/money/" {% if page.url == "/money/" %}class="active"{% endif %}>Money</a>
+  <a href="/relationships/" {% if page.url == "/relationships/" %}class="active"{% endif %}>Relationships</a>
+  <a href="/spirituality/" {% if page.url == "/spirituality/" %}class="active"{% endif %}>Spirituality</a>
+  <a href="/psychology/" {% if page.url == "/psychology/" %}class="active"{% endif %}>Psychology</a>
+</nav>
 
 
 <h2 style="text-align: center;">Book Summaries about Money</h2>
