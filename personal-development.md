@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Personal Development
-permalink: /personal_development/
+permalink: /personal-development/
 ---
 <nav class="category-bar">
   <a href="/" {% if page.url == "/" %}class="active"{% endif %}>All Posts</a>
