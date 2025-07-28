@@ -4,3 +4,5 @@ baseurl: ""
 url: "https://www.readandgrowwise.com"
 theme: null
 permalink: /:categories/:title.html
+plugins:
+  - jekyll-sitemap
