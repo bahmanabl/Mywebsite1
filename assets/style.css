@@ -119,3 +119,21 @@ body {
 }
 
 
+
+.category-bar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  background-color: #eef; /* light blue like your screenshot */
+  font-weight: bold;
+}
+
+.category-bar a {
+  text-decoration: none;
+  color: black;
+}
+
+.category-bar a.active {
+  text-decoration: underline;
+}
