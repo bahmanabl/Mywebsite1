@@ -19,7 +19,7 @@ s"
 <h2 style="text-align: center;">Books About Personal Development</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
-  {% for post in site.categories.Money %}
+  {% for post in site.categories["Personal Development"] %}
     <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
       <a href="{{ post.url | relative_url }}">
         <img src="{{ post.image }}" alt="thumbnail" style="width: 100%; border-radius: 8px;">
