@@ -13,7 +13,7 @@ permalink: /personal-development/
 </nav>
 
 
-<h2 style="text-align: center;">Book Summaries about Personal Development</h2>
+<h2 style="text-align: center;">Books About Personal Development</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   {% for post in site.categories.Money %}
