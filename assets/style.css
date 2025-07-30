@@ -186,3 +186,8 @@ a h3 {
   font-weight: normal;  /* Optional: or 600 if you want slight boldness */
   margin: 0.5rem 0;
 }
+
+a h3:hover {
+  text-decoration: underline;
+  color: #333;
+}
