@@ -179,4 +179,10 @@ body, main, header, h1, h2, h3, nav {
 }
 
 
-
+a h3 {
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;      /* Adjust as needed — try 0.95rem if 1rem is still big */
+  font-weight: normal;  /* Optional: or 600 if you want slight boldness */
+  margin: 0.5rem 0;
+}
