@@ -3,8 +3,8 @@ layout: default
 title: "The Four Agreements: Book Summary"
 date: 2025-07-30
 category: Spirituality
-image: https://img.youtube.com/vi/CMMgfo-exZ4&t/mqdefault.jpg
-youtube: https://www.youtube.com/embed/CMMgfo-exZ4
+image: https://img.youtube.com/vi/CMMgfo-exZ4&t=1s/mqdefault.jpg
+youtube: https://www.youtube.com/embed/CMMgfo-exZ4&t=1s
 description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
