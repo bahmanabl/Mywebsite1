@@ -2,6 +2,8 @@
 layout: default
 title: Home
 permalink: /
+pagination: 
+  enabled: true
 description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
 keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
 s"
@@ -68,3 +70,24 @@ s"
   </div>
 
 </div>
+
+
+
+<div class="pagination" style="text-align: center; margin-top: 2rem;">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <strong>{{ page }}</strong>
+    {% else %}
+      <a href="{{ paginator.paginate_path | replace: ':num', page | relative_url }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</div>
+
