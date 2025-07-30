@@ -3,7 +3,16 @@ layout: default
 title: About
 permalink: /about/
 ---
-
+<div style="
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 20px auto;
+  width: 100%;
+  box-sizing: border-box;
+">
+  
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/bahmanabolhassani/" target="_blank">
     <img src="/assets/bahman.png" alt="Bahman Abolhassani" style="max-width: 100%; height: auto; border-radius: 10px;">
@@ -19,3 +28,4 @@ But my journey didn't stop there. Along the way, I met Bob Proctor, who taught m
 
 
 There's always something to improve in life, and I invite you to join me on this journey of growth and self-improvement. Let's start now and grow together. Are you in?
+</div>
