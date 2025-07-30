@@ -6,3 +6,7 @@ theme: null
 permalink: /:categories/:title.html
 plugins:
   - jekyll-sitemap
+
+
+paginate: 12
+paginate_path: "/page/:num"
