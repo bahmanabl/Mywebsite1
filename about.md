@@ -8,7 +8,7 @@ permalink: /about/
   padding: 20px;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: 0 auto 20px auto;
+  margin: -20px auto 20px auto;
   width: 100%;
   box-sizing: border-box;
 ">
