@@ -137,3 +137,8 @@ body {
 .category-bar a.active {
   text-decoration: underline;
 }
+
+body, main, header, h1, h2, h3, nav {
+  margin-top: 0;
+  padding-top: 0;
+}
