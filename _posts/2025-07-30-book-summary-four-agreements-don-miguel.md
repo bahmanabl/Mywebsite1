@@ -52,7 +52,7 @@ keywords: "book summary, personal growth, finance, relationships"
   width: 100%;
   box-sizing: border-box;
 ">
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; border-radius: 20px;">
   <iframe 
     src="https://www.youtube.com/embed/CMMgfo-exZ4&t" 
     frameborder="0" 
@@ -61,6 +61,9 @@ keywords: "book summary, personal growth, finance, relationships"
   </iframe>
 </div>
 
+<div style="height: 20px;"></div>
+
+<!-- ..................................................................... -->
 
 This is one of the books I recently read, The Four Agreements. … with over 7 million copies sold all around the world, this is a wonderful book based on ancient Toltec teachings and is filled with wisdom. Don Miguel who wrote this book was a surgeon when he had a near-death experience that changed his life forever. In his book, Don Miguel suggests that, as children, we did not have the opportunity to choose our beliefs, so other people put it there for us. They programmed us with their belief system. Then we grew up. And this programming controls every aspect of our lives. How we see things, how we judge other people, and ourselves. Some of these beliefs are useful but many are inaccurate, unrealistic, or even harmful. We did not consciously choose to believe in them. Beliefs like, I am not good enough, I am not intelligent enough, I am not lovable and so many other limiting beliefs. We want to be loved but we can't love ourselves. And why is that? Because someone somewhere in our childhood put that idea in our mind that ‘I might not be lovable’. These inaccurate beliefs, that we have accepted consciously or unconsciously, are the source of suffering in our lives. We may not be responsible for putting it there but we are responsible for changing that. It is possible to wake up and change all these inaccurate beliefs. The first step to change is awareness. You need to become aware that these unrealistic beliefs exist somewhere inside you. Then you got to forgive yourself and others, let the past go. Jesus on the cross said: “Father forgive them for they do not know what they do”. Forgiveness creates space so you can bring change to your life. 
 
