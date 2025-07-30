@@ -177,3 +177,36 @@ body, main, header, h1, h2, h3, nav {
     font-size: 1.1rem;
   }
 }
+
+/* Toggle button styles */
+.category-toggle {
+  display: none;
+  background-color: #eee;
+  border: none;
+  padding: 10px 16px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+/* Hide category links by default on mobile */
+@media (max-width: 600px) {
+  .category-toggle {
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
+
+  .category-bar {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .category-bar.show {
+    display: flex;
+  }
+}
+
+
