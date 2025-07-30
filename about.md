@@ -15,7 +15,7 @@ permalink: /about/
   
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/bahmanabolhassani/" target="_blank">
-    <img src="/assets/bahman.png" alt="Bahman Abolhassani" style="max-width: 90%; height: auto; border-radius: 10px;">
+    <img src="/assets/bahman.png" alt="Bahman Abolhassani" style="max-width: 90%; height: auto; border-radius: 30px;">
   </a>
 </div>
 
