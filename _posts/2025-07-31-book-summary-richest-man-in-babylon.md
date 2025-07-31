@@ -5,8 +5,8 @@ date: 2025-07-31
 category: Money
 image: https://img.youtube.com/vi/5NWoMf7WNfE/mqdefault.jpg
 youtube: https://www.youtube.com/embed/5NWoMf7WNfE
-description: "Short summary of the key takeaways from this book."
-keywords: "book summary, personal growth, finance, relationships"
+description: "Powerful book summary of 'The Richest Man in Babylon' with timeless financial lessons for wealth and freedom."
+keywords: "The Richest Man in Babylon summary, financial freedom, personal finance, pay yourself first, book summary, money management, investing, wealth building"
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
