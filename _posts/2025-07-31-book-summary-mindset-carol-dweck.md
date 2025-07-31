@@ -9,16 +9,6 @@ description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
 
-
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: 0 auto 20px auto;
-  width: 100%;
-  box-sizing: border-box;
-">
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
@@ -68,9 +58,3 @@ The mindset is simply a must read book for anyone interested in personal develop
 
 
 
-
-
-
-
-
-</div>
