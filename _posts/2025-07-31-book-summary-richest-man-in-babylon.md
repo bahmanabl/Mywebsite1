@@ -21,6 +21,10 @@ keywords: "book summary, personal growth, finance, relationships"
   </div>
 </div>
 
+<div style="height: 15px;"></div>
+<!-- ..................................................................... -->
+
+
 The classical error that most people make is thinking you need to earn a lot to be rich.
 
 ## Principal #1: Pay yourself first
