@@ -31,7 +31,7 @@ keywords: "book summary, personal growth, finance, relationships"
     </iframe>
   </div>
 </div>
-<div style="height: 10px;"></div>
+<div style="height: 15px;"></div>
 
 <!-- ..................................................................... -->
 
@@ -39,7 +39,7 @@ The classical error that most people make is that if you want to become a millio
 
  
 
-Principal #1: Pay yourself first. 
+# Principal #1: Pay yourself first. 
 
 You will only begin having more money when you realize a part of all the money you earn, is yours to keep. You pay other people for the food you buy, the clothes you buy, the electric bills, rent, and so many other things, but if you want to be rich, you should pay yourself first. In other words, you should save some money. The book suggests that you should save at least 10% of your income, more if you can afford so. Now there are two ways you can save more money. 
 
@@ -49,7 +49,7 @@ Another way to be able to save more money is to increase your income. You can in
 
  
 
-Principle #2: make your money work for you.
+# Principle #2: make your money work for you.
 
 Now that you start saving and have some money. You should not let it just sit there. You should put it into work so that it will make even more money for you. This is called investing. Book gives some tips on how you can do this more intelligently. 
 
@@ -60,7 +60,7 @@ Another important tip is: Never lose your money. Don't invest in places that see
 Another tip which in my opinion is the most important one:  Invest in yourself. Spend your time and money to improve your skills and abilities to earn more money. Keep learning and improving. This will give you a huge advantage over time. While the average person goes home after work to watch TV and does nothing to improve himself, You can get ahead by improving yourself just a little bit each day and you’ll see this little bits soon add up. In my opinion, the best way to invest in yourself is to read books. I've been reading a book each week and have been learning a lot from them and I'm making these summaries to share with you what I’ve been learning. I hope this would encourage you to read more books because to be honest there is no replacement for reading books.
 
  
-
+#
 You may agree with the things that I said so far, but to just make an impression of how this information can change your life, Let's suppose you just set aside $20 per week. If you did this for 50 weeks you would have 1000 dollars and you would probably form a habit to do that. If you keep doing this for 40 years you will have $40,000. That's if you just left it sitting there. However if you found someone that's really understood the money and you gave it to them and put your money work for you. Then you got two ways going for you. You are working and so as your $20 bill, you know at the end of 40 years how much money you will have. If they only found gainful employment at 14%, And there are many people around that can help you do that, You will have $1,520,000. All you've done is just set aside $20 a week. Now if you just left your million-and-a-half sitting there for you, it will earn for you between 150 and $200,000 each year and you will still have your million-and-a-half. I would imagine you can probably get by on that for a while. And all you've done is just set aside $20 a week. If you worked at Chipotle and never got promoted you could become millionaire. So you see the classical error that Most people make is that if you want to become a millionaire, you got to earn a lot of money. And of course, that's not true. If you want to be a millionaire. You just need to have a plan to be a millionaire. That's all you need. You just need to make up your mind that you'd be a millionaire. And then you can use the tips that I gave in this summaryto make your own plan. Good luck.
 
 If you learned something from this summary, check out the video in our channel and don’t forget to subscribe for more summaries in future.
