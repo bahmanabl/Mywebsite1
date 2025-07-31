@@ -8,17 +8,6 @@ youtube: https://www.youtube.com/embed/9nwUfxnr4LQ
 description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
-    <iframe 
-      src="https://www.youtube.com/embed/9nwUfxnr4LQ"
-      title="YouTube video player"
-      allowfullscreen
-      frameborder="0"
-      style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
-    </iframe>
-  </div>
-</div>
 
 
 <div style="
@@ -30,8 +19,19 @@ keywords: "book summary, personal growth, finance, relationships"
   width: 100%;
   box-sizing: border-box;
 ">
-
-<div style="height: 10px;"></div>
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
+    <iframe 
+      src="https://www.youtube.com/embed/9nwUfxnr4LQ"
+      title="YouTube video player"
+      allowfullscreen
+      frameborder="0"
+      style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
+    </iframe>
+  </div>
+</div>
+  
+<div style="height: 15px;"></div>
 
 <!-- ..................................................................... -->
 
