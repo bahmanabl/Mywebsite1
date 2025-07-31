@@ -46,17 +46,17 @@ Before exploring the love languages, let me remind you that falling in love is d
 Now that we know the importance of love languages and we also know that love is a choice. I'll share the five main Love Languages that Dr. Chapman talks about. And also I'll give you some tips on how to discover your own and your partner's love language. 
 
  
-##Love language #1: Words of affirmation 
+## Love language #1: Words of affirmation 
 People of this language feel most loved when it is expressed with words, compliments, words of encouragement, or even just a simple "I was thinking about you". Words of affirmation are words that build someone up. If this is your primary love language, you feel most cared for when your partner is open and expressive in telling you how wonderful they think you are or how much they appreciate you. To speak this language, you give verbal compliments more frequently. If this is your partner's love language, make sure they know you love their smile, their sense of humor, or that new outfit. 
 
  
 
-##Love language #2: Quality time 
+## Love language #2: Quality time 
 Spending time with their partners, their attention undivided, and fully present, is how people of this love language express themselves. Being able to fully engage with their partner during activities like going for a walk, playing games, or even just coffee and conversation is what brings them the most joy. This means giving your full 100% undivided attention to the other person and talking to them. This love language is about being together, fully present, and engaged in the activity at hand, no matter how trivial. Work and busy lives can easily get in the way of this love language. We can be in the same room with our partner and still fail to really be with them, usually because of our phones. The key to quality time is undivided attention. It can either be a quality conversation or quality activities with your partner. 
 
  
 
-##Love language #3: Receiving gifts
+## Love language #3: Receiving gifts
 For people of this love language. Nothing says I love you more than gifts. The time, money and effort that goes into picking the perfect gifts mean the world to them and serves as an undeniable proof that their partner was thinking about them. Remember that it doesn't matter how much it costs. It's just the act of going out and getting or even making a gift for your partner that will show them how you feel about them. Gifts are visual symbols of love, and if this is your partner's love language, you can start by making a list of all the gifts that your partner has been excited about. This will give you an idea of what gifts they appreciate. 
 
  
@@ -66,7 +66,7 @@ People of this love language feel more appreciated when their partners do things
 
  
 
-##Love language #5: Physical Touch
+## Love language #5: Physical Touch
 For people of this love language, touching will give them more security, and the most feeling of love in the relationship. Holding hands, hugging, kissing, and cuddling all fall under the umbrella of physical touch. Do random touches throughout the day like a big hug. And they love it. Even in infancy, humans need physical touch to thrive. We often forget, but this carries on into adulthood as well. 
 
  
