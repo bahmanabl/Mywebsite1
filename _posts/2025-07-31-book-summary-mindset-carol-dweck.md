@@ -9,7 +9,7 @@ description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="aspect-ratio: 16 / 9; width: 100%; max-width: 700px; position: relative;">
+  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
       src="https://www.youtube.com/embed/9nwUfxnr4LQ"
       title="YouTube video player"
@@ -20,28 +20,6 @@ keywords: "book summary, personal growth, finance, relationships"
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; width: 100%; border-radius: 20px;">
-    <iframe 
-      src="https://www.youtube.com/embed/CMMgfo-exZ4" 
-      frameborder="0" 
-      allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
-</div>
-
-
-<div style="display: flex; justify-content: center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; width: 100%; max-width: 700px; overflow: hidden; border-radius: 20px;">
-    <iframe 
-      src="https://www.youtube.com/embed/9nwUfxnr4LQ" 
-      frameborder="0" 
-      allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
-</div>
 
 <div style="
   background-color: white;
@@ -52,18 +30,8 @@ keywords: "book summary, personal growth, finance, relationships"
   width: 100%;
   box-sizing: border-box;
 ">
-<div style="display: flex; justify-content: center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; width: 100%; max-width: 700px; overflow: hidden; border-radius: 20px;">
-    <iframe 
-      src="https://www.youtube.com/embed/9nwUfxnr4LQ" 
-      frameborder="0" 
-      allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
-</div>
 
-<div style="height: 20px;"></div>
+<div style="height: 10px;"></div>
 
 <!-- ..................................................................... -->
 
