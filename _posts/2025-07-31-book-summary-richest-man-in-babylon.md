@@ -9,19 +9,6 @@ description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
 
-<!-- Start white container -->
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: 0 auto 20px auto;
-  width: 100%;
-  max-width: 800px;
-  box-sizing: border-box;
-">
-
-<!-- YouTube video -->
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
@@ -34,21 +21,9 @@ keywords: "book summary, personal growth, finance, relationships"
   </div>
 </div>
 
-</div> <!-- CLOSE white box temporarily -->
-
-<!-- Now use Markdown freely BELOW -->
-
-<div class="markdown-box">
-
 The classical error that most people make is thinking you need to earn a lot to be rich.
 
 ## Principal #1: Pay yourself first
 
 You will only begin to build wealth when you realize that **a part of all you earn is yours to keep**.
-
-## Principal #2: Make your money work for you
-
-It’s not about how much you make — it’s about how you make what you have grow.
-
-</div>
 
