@@ -38,16 +38,7 @@ keywords: "book summary, personal growth, finance, relationships"
 
 <!-- Now use Markdown freely BELOW -->
 
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: 0 auto 40px auto;
-  width: 100%;
-  max-width: 800px;
-  box-sizing: border-box;
-">
+<div class="markdown-box">
 
 The classical error that most people make is thinking you need to earn a lot to be rich.
 
@@ -59,4 +50,5 @@ You will only begin to build wealth when you realize that **a part of all you ea
 
 It’s not about how much you make — it’s about how you make what you have grow.
 
-</div> <!-- CLOSE second white box -->
+</div>
+
