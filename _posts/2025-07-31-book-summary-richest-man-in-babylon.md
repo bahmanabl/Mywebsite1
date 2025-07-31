@@ -39,7 +39,7 @@ The classical error that most people make is that if you want to become a millio
 
  
 
-# Principal #1: Pay yourself first. 
+## Principal #1: Pay yourself first. 
 
 You will only begin having more money when you realize a part of all the money you earn, is yours to keep. You pay other people for the food you buy, the clothes you buy, the electric bills, rent, and so many other things, but if you want to be rich, you should pay yourself first. In other words, you should save some money. The book suggests that you should save at least 10% of your income, more if you can afford so. Now there are two ways you can save more money. 
 
@@ -49,7 +49,7 @@ Another way to be able to save more money is to increase your income. You can in
 
  
 
-# Principle #2: make your money work for you.
+##** Principle #2: make your money work for you.**
 
 Now that you start saving and have some money. You should not let it just sit there. You should put it into work so that it will make even more money for you. This is called investing. Book gives some tips on how you can do this more intelligently. 
 
