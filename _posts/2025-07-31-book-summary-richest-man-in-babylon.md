@@ -9,8 +9,6 @@ description: "Short summary of the key takeaways from this book."
 keywords: "book summary, personal growth, finance, relationships"
 ---
 
-
-
 <div style="
   background-color: white;
   padding: 20px;
@@ -20,30 +18,27 @@ keywords: "book summary, personal growth, finance, relationships"
   width: 100%;
   box-sizing: border-box;
 ">
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
-    <iframe 
-      src="https://www.youtube.com/embed/5NWoMf7WNfE"
-      title="YouTube video player"
-      allowfullscreen
-      frameborder="0"
-      style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
-    </iframe>
+  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
+      <iframe 
+        src="https://www.youtube.com/embed/5NWoMf7WNfE"
+        title="YouTube video player"
+        allowfullscreen
+        frameborder="0"
+        style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
+      </iframe>
+    </div>
   </div>
 </div>
-<div style="height: 15px;"></div>
 
-<!-- ..................................................................... -->
+<!-- Write all content below in Markdown -->
+The classical error that most people make is thinking you need to earn a lot to be rich.
 
-The classical error that 
+## Principal #1: Pay yourself first
 
-## Principal #1: Pay yourself first. 
+You will only begin to build wealth when you realize that **a part of all you earn is yours to keep**.
 
-You will only  
+## Principal #2: Make your money work for you
 
-##** Principle #2: make your money work for you.**
+It's not about how much you make — it's about how you make what you have grow.
 
-Now that 
-
-
-</div>
