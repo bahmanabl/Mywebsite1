@@ -42,12 +42,16 @@
     </div>
   </header>
 
-  <main class="page-content" style="margin-top: 0; padding-top: 0;">
-    <div class="page-wrapper">
-      <div class="content-container">
-        {{ content }}
-      </div>
+<main class="page-content" style="margin-top: 0; padding-top: 0;">
+  <div class="page-wrapper">
+    <div class="content-container">
+      <h1 style="text-align: center; font-size: 2em; margin-bottom: 1em;">
+        {{ page.title }}
+      </h1>
+      {{ content }}
     </div>
-  </main>
+  </div>
+</main>
+
 </body>
 </html>
