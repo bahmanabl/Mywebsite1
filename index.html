@@ -82,7 +82,7 @@ s"
     {% if page == paginator.page %}
       <strong>{{ page }}</strong>
     {% else %}
-      <a href="{{ paginator.paginate_path | replace: ':num', page | relative_url }}">{{ page }}</a>
+      <a href="{% if page == 1 %}{{ '/' | relative_url }}{% else %}{{ '/page/' | append: page | relative_url }}{% endif %}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
