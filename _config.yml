@@ -3,7 +3,7 @@ description: "Read And Grow Wise: Book summaries with YouTube links"
 baseurl: ""
 url: "https://www.readandgrowwise.com"
 theme: null
-permalink: /:categories/:title.html
+permalink: /:categories/:title
 plugins:
   - jekyll-sitemap
 
