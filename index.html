@@ -75,7 +75,7 @@ s"
 <!-- This lets me to show only 12 posts per page -->
 <div class="pagination" style="text-align: center; margin-top: 2rem;">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    <a href="{% if paginator.previous_page == 1 %}{{ '/' | relative_url }}{% else %}{{ '/page/' | append: paginator.previous_page | relative_url }}{% endif %}">&laquo; Prev</a>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -87,7 +87,8 @@ s"
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    <a href="{{ '/page/' | append: paginator.next_page | relative_url }}">Next &raquo;</a>
   {% endif %}
 </div>
+
 
