@@ -2,7 +2,7 @@
 layout: post
 title: "MINDSET by Carol Dweck Book Summary"
 date: 2025-07-31
-category: Personal Development
+category: personal-development
 image: https://img.youtube.com/vi/9nwUfxnr4LQ/mqdefault.jpg
 youtube: https://www.youtube.com/embed/9nwUfxnr4LQ
 description: "Short summary of the key takeaways from this book."
