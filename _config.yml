@@ -7,9 +7,3 @@ permalink: /:categories/:title
 plugins:
   - jekyll-sitemap
 
-
-paginate: 12
-paginate_path: "/page/:num"
-
-plugins:
-  - jekyll-paginate
