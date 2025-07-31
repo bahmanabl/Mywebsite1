@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "MINDSET by Carol Dweck Book Summary"
 date: 2025-07-31
 category: Personal Development
