@@ -2,7 +2,7 @@
 layout: post
 title: "Wake Up and Live Dorothea Brande Book Summary"
 date: 2025-07-28
-category: Personal Development
+category: personal-development
 image: https://img.youtube.com/vi/CoBlvR3fDaM/mqdefault.jpg
 youtube: https://www.youtube.com/embed/CoBlvR3fDaM
 ---
