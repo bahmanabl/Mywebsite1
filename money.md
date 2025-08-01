@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Money
+title: money
 permalink: /money/
 description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
 keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
@@ -40,7 +40,7 @@ s"
 <h2 style="text-align: center;">Books About Money</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
-  {% for post in site.categories.Money %}
+  {% for post in site.categories.money %}
     <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
       <a href="{{ post.url | relative_url }}">
         <img src="{{ post.image }}" alt="thumbnail" style="width: 100%; border-radius: 8px;">
