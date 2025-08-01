@@ -1,0 +1,29 @@
+<!-- Category Bar Wrapper -->
+<div style="
+  background-color: white;
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: -10px auto 20px auto;
+  width: 100%;
+  box-sizing: border-box;
+">
+
+  <h2 style="text-align: center; margin-top: 0;">Recent Summaries</h2>
+
+  <!-- CATEGORY NAVIGATION BAR -->
+  <nav class="category-bar" style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    background: none;
+    padding: 0;
+  ">
+    <a href="/personal-development/" {% if page.url == "/personal-development/" %}class="active"{% endif %}>Personal Development</a>
+    <a href="/money/" {% if page.url == "/money/" %}class="active"{% endif %}>Money</a>
+    <a href="/relationships/" {% if page.url == "/relationships/" %}class="active"{% endif %}>Relationships</a>
+    <a href="/spirituality/" {% if page.url == "/spirituality/" %}class="active"{% endif %}>Spirituality</a>
+    <a href="/psychology/" {% if page.url == "/psychology/" %}class="active"{% endif %}>Psychology</a>
+  </nav>
+</div>
