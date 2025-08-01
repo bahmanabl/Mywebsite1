@@ -2,7 +2,7 @@
 layout: post
 title: "The Richest Man In Babylon Book Summary"
 date: 2025-07-31
-category: Money
+category: money
 image: https://img.youtube.com/vi/5NWoMf7WNfE/mqdefault.jpg
 youtube: https://www.youtube.com/embed/5NWoMf7WNfE
 description: "The Richest Man in Babylon by George Clason offers timeless financial wisdom on saving, investing, and building lasting wealth."
