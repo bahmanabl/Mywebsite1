@@ -69,3 +69,9 @@ All of us know the tale of the Trojan Horse. Have you ever wondered why that is?
  
 In summary, to make your product contagious by taking advantage of the power of word of mouth, simply follow the STEEPS formula, make sharing information about your product a form of social currency for people, use triggers, and arouse emotions to get them to share your content, make your product publicly visible and practically valuable, and finally build a compelling story around it. 
 
+<br>
+<p style="text-align: center;">
+  <a href="https://amzn.to/3ctkVZ1" style="color: blue; text-decoration: underline; font-size: 18px;">
+    This book on Amazon
+  </a>
+</p>
