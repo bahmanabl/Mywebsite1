@@ -56,5 +56,5 @@ So to summarize:
 3- And focus on building horizontal relationships.
 
 <br>
-## 
+
 Adler wants us to have the courage to be normal and lived here and now and know that no matter what has happened to us in the past, we are able to change and do something that is meaningful to us. Good luck putting his wisdom into action.
