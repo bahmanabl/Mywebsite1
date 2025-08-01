@@ -1,69 +1,28 @@
 ---
-layout: default
+layout: post
 title: "The Four Agreements: Book Summary"
 date: 2025-07-30
 category: Spirituality
 image: https://img.youtube.com/vi/CMMgfo-exZ4/mqdefault.jpg
 youtube: https://www.youtube.com/embed/CMMgfo-exZ4
-description: "Short summary of the key takeaways from this book."
-keywords: "book summary, personal growth, finance, relationships"
+description: "The Four Agreements by Don Miguel Ruiz shares ancient Toltec wisdom to break limiting beliefs and live with freedom, love, and authenticity."
+keywords: "The Four Agreements summary, Don Miguel Ruiz, Toltec wisdom, personal growth, self-limiting beliefs, be impeccable with your word, spiritual development, book summary"
 ---
-
-<!-- This adds the cattegory bar inside a white wrapper -->
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 40px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: -10px auto 20px auto;
-  width: 100%;
-  box-sizing: border-box;
-">
-
-  <!-- CATEGORY NAVIGATION BAR -->
-  <nav class="category-bar" style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    margin-bottom: 0;
-    background: none;
-    padding: 0;
-  ">
-    <a href="/" {% if page.url == "/" %}class="active"{% endif %}>All Posts</a>
-    <a href="/personal-development/" {% if page.url == "/personal-development/" %}class="active"{% endif %}>Personal Development</a>
-    <a href="/money/" {% if page.url == "/money/" %}class="active"{% endif %}>Money</a>
-    <a href="/relationships/" {% if page.url == "/relationships/" %}class="active"{% endif %}>Relationships</a>
-    <a href="/spirituality/" {% if page.url == "/spirituality/" %}class="active"{% endif %}>Spirituality</a>
-    <a href="/psychology/" {% if page.url == "/psychology/" %}class="active"{% endif %}>Psychology</a>
-  </nav>
-</div>
-<!-- ..................................................................... -->
-
-
-
-
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: 0 auto 20px auto;
-  width: 100%;
-  box-sizing: border-box;
-">
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; border-radius: 20px;">
-  <iframe 
-    src="https://www.youtube.com/embed/CMMgfo-exZ4" 
-    frameborder="0" 
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
+    <iframe 
+      src="https://www.youtube.com/embed/CMMgfo-exZ4"
+      title="YouTube video player"
+      allowfullscreen
+      frameborder="0"
+      style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
+    </iframe>
+  </div>
 </div>
 
-<div style="height: 20px;"></div>
-
+<div style="height: 15px;"></div>
 <!-- ..................................................................... -->
+
 
 This is one of the books I recently read, The Four Agreements. … with over 7 million copies sold all around the world, this is a wonderful book based on ancient Toltec teachings and is filled with wisdom. Don Miguel who wrote this book was a surgeon when he had a near-death experience that changed his life forever. In his book, Don Miguel suggests that, as children, we did not have the opportunity to choose our beliefs, so other people put it there for us. They programmed us with their belief system. Then we grew up. And this programming controls every aspect of our lives. How we see things, how we judge other people, and ourselves. Some of these beliefs are useful but many are inaccurate, unrealistic, or even harmful. We did not consciously choose to believe in them. Beliefs like, I am not good enough, I am not intelligent enough, I am not lovable and so many other limiting beliefs. We want to be loved but we can't love ourselves. And why is that? Because someone somewhere in our childhood put that idea in our mind that ‘I might not be lovable’. These inaccurate beliefs, that we have accepted consciously or unconsciously, are the source of suffering in our lives. We may not be responsible for putting it there but we are responsible for changing that. It is possible to wake up and change all these inaccurate beliefs. The first step to change is awareness. You need to become aware that these unrealistic beliefs exist somewhere inside you. Then you got to forgive yourself and others, let the past go. Jesus on the cross said: “Father forgive them for they do not know what they do”. Forgiveness creates space so you can bring change to your life. 
 
