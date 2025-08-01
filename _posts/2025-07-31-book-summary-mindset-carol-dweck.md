@@ -5,8 +5,8 @@ date: 2025-07-31
 category: personal-development
 image: https://img.youtube.com/vi/9nwUfxnr4LQ/mqdefault.jpg
 youtube: https://www.youtube.com/embed/9nwUfxnr4LQ
-description: "Short summary of the key takeaways from this book."
-keywords: "book summary, personal growth, finance, relationships"
+description: "Mindset by Carol Dweck reveals how adopting a growth mindset leads to personal success, resilience, and lifelong learning."
+keywords: "Mindset summary, Carol Dweck, growth mindset, fixed mindset, personal development, psychology of success, learning and resilience, book summary"
 ---
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
