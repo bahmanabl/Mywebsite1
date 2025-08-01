@@ -2,7 +2,7 @@
 layout: post
 title: "The Four Agreements: Book Summary"
 date: 2025-07-30
-category: Spirituality
+category: spirituality
 image: https://img.youtube.com/vi/CMMgfo-exZ4/mqdefault.jpg
 youtube: https://www.youtube.com/embed/CMMgfo-exZ4
 description: "The Four Agreements by Don Miguel Ruiz shares ancient Toltec wisdom to break limiting beliefs and live with freedom, love, and authenticity."
