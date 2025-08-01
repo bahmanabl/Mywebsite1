@@ -71,7 +71,7 @@ In summary, to make your product contagious by taking advantage of the power of 
 
 <br>
 <p style="text-align: center;">
-  <a href="https://amzn.to/3ctkVZ1" style="color: blue; text-decoration: underline; font-size: 18px;">
+  <a href="https://amzn.to/3ctkVZ1" style="color: blue; text-decoration: underline; font-size: 20px;">
     This book on Amazon
   </a>
 </p>
