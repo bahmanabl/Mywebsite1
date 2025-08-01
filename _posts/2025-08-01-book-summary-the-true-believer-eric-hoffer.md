@@ -48,5 +48,5 @@ Do you remember the last election in your country? Most popular politicians are 
 When someone feels frustrated and out of control in their life, they usually blame things outside of themselves, the government, the economy,…, anything but themselves. People have a desire to join mass movements when they don't like their life and feel powerless to change them. And more often than not, people who feel in control of their life don't want to join a mass movement. These people do not want radical change because they are happy to follow their dreams within the existing systems and they believe they have the power to do that. When people feel powerless and frustrated, the freedom they deeply crave is freedom from personal responsibility. Obeying orders feels like a relief to these people. Like taking a heavy load off of their shoulders. Eric Hoffer calls these people the true believers. For a true believer, it's a relief to join a mass movement. Now they have a direction. Now they feel part of something bigger than themselves. And best of all, they are not personally responsible if the movement fails, which lets them avoid feeling not good enough again. Eric Hoffer says: “the desire to belong is partly a desire to lose oneself.” 
 
 
-<br><br>
+<br>
 By now, you should have learned something about the basic nature of mass movements and why people join them. 
