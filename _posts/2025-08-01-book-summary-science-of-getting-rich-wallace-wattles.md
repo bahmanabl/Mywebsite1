@@ -54,6 +54,7 @@ How do people get what they want? Is it even possible to get what we want when w
 <br>
 
 So to summarize: 
+
 1- All riches first originate in our minds. 
 
 2- The more you are grateful, the more you’ll have to be grateful for. 
