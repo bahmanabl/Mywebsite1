@@ -2,7 +2,7 @@
 layout: post
 title: "The Mastery Of Love Don Miguel Ruiz Book Summary"
 date: 2025-08-01
-category: spirituality
+category: [spirituality, relationships]
 image: https://img.youtube.com/vi/1c-LPp6gq7U/mqdefault.jpg
 youtube: https://www.youtube.com/embed/1c-LPp6gq7U
 description: "The Mastery of Love by Don Miguel Ruiz explores how self-love and acceptance are the keys to building healthy, meaningful relationships without fear, judgment, or dependency."
