@@ -2,7 +2,7 @@
 layout: post
 title: "The Magic of Believing Claude Bristol Summary"
 date: 2025-08-01
-category: psychology
+category: spirituality
 image: https://img.youtube.com/vi/pT4hnLvl8Mw/mqdefault.jpg
 youtube: https://www.youtube.com/embed/pT4hnLvl8Mw
 description: "Unlock the power of belief with Claude Bristol’s 'The Magic of Believing'—learn how your thoughts, subconscious mind, and unwavering faith shape your reality and success."
