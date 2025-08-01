@@ -9,14 +9,13 @@
   box-sizing: border-box;
 ">
 
-  <h2 style="text-align: center; margin-top: 0;">Recent Summaries</h2>
-
   <!-- CATEGORY NAVIGATION BAR -->
   <nav class="category-bar" style="
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
+    margin-bottom: 0;
     background: none;
     padding: 0;
   ">
@@ -25,5 +24,6 @@
     <a href="/relationships/" {% if page.url == "/relationships/" %}class="active"{% endif %}>Relationships</a>
     <a href="/spirituality/" {% if page.url == "/spirituality/" %}class="active"{% endif %}>Spirituality</a>
     <a href="/psychology/" {% if page.url == "/psychology/" %}class="active"{% endif %}>Psychology</a>
+    <a href="/all-posts/" {% if page.url == "/all-posts/" %}class="active"{% endif %}>All Posts</a>
   </nav>
 </div>
