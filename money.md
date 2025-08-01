@@ -12,6 +12,16 @@ s"
 
 <h2 style="text-align: center;">Books About Money</h2>
 
+
+<div style="
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 0 auto 20px auto;
+  width: 100%;
+  box-sizing: border-box;
+">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   {% for post in site.categories.money %}
     <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
@@ -21,4 +31,5 @@ s"
       </a>
     </div>
   {% endfor %}
+</div>
 </div>
