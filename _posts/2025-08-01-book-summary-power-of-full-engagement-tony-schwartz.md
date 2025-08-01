@@ -2,7 +2,7 @@
 layout: post
 title: "The Power of Full Engagement Tony Schwartz Summary"
 date: 2025-08-01
-category: personal-development
+category: [personal-development, psychology]
 image: https://img.youtube.com/vi/39Etf-RVtiY/mqdefault.jpg
 youtube: https://www.youtube.com/embed/39Etf-RVtiY
 description: "The Power of Full Engagement by Tony Schwartz reveals that managing energy—not time—is the key to high performance and life balance. Learn how to build rituals for physical, emotional, mental, and spiritual energy to unlock your full potential."
