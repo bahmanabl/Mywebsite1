@@ -40,7 +40,6 @@ Thanks for reading. It's Bahman and I enjoy sharing it with you. If you want a o
     One-Page Infographic Summary
   </a>
 </p>
-<br>
 <p style="text-align: center;">
   <a href="https://amzn.to/3e0xNWT" target="_blank" style="color: blue; text-decoration: underline; font-size: 20px;">
     This book on Amazon
