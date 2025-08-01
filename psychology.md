@@ -6,41 +6,23 @@ description: "RAGWise delivers short, insightful, and animated book summaries on
 keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
 s"
 ---
-<!-- This adds the cattegory bar inside a white wrapper -->
-<div style="
-  background-color: white;
-  padding: 20px;
-  border-radius: 40px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin: -10px auto 20px auto;
-  width: 100%;
-  box-sizing: border-box;
-">
+{% include category-bar.html %}
 
-  <!-- CATEGORY NAVIGATION BAR -->
-  <nav class="category-bar" style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    margin-bottom: 0;
-    background: none;
-    padding: 0;
-  ">
-    <a href="/" {% if page.url == "/" %}class="active"{% endif %}>All Posts</a>
-    <a href="/personal-development/" {% if page.url == "/personal-development/" %}class="active"{% endif %}>Personal Development</a>
-    <a href="/money/" {% if page.url == "/money/" %}class="active"{% endif %}>Money</a>
-    <a href="/relationships/" {% if page.url == "/relationships/" %}class="active"{% endif %}>Relationships</a>
-    <a href="/spirituality/" {% if page.url == "/spirituality/" %}class="active"{% endif %}>Spirituality</a>
-    <a href="/psychology/" {% if page.url == "/psychology/" %}class="active"{% endif %}>Psychology</a>
-  </nav>
-</div>
 
 
 <h2 style="text-align: center;">Books About Psychology</h2>
 
+<div style="
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 0 auto 20px auto;
+  width: 100%;
+  box-sizing: border-box;
+">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
-  {% for post in site.categories.Money %}
+  {% for post in site.categories.psychology %}
     <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
       <a href="{{ post.url | relative_url }}">
         <img src="{{ post.image }}" alt="thumbnail" style="width: 100%; border-radius: 8px;">
@@ -48,4 +30,5 @@ s"
       </a>
     </div>
   {% endfor %}
+</div>
 </div>
