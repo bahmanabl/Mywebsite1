@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Art of War Summary – Timeless Strategies from Sun Tzu for Business, Life, and Leadership"
+title: "The Art of War Summary – Timeless Strategies from Sun Tzu"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/s-wiZJBpqKU/mqdefault.jpg
