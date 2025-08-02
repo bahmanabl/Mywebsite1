@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moonwalking with Einstein Summary – Joshua Foer’s Guide to Boosting Memory Like a Champion"
+title: "Moonwalking with Einstein Summary – Joshua Foer’s Guide to Boosting Memory"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/ZPAqr6RBnC8/mqdefault.jpg
