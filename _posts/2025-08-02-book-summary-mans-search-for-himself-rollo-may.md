@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Man’s Search for Himself Summary – Rollo May’s Lessons on Emptiness, Loneliness, and Anxiety"
+title: "Man’s Search for Himself Summary – Rollo May’s Lessons"
 date: 2025-08-02
 category: spirituality
 image: https://img.youtube.com/vi/J3WvzkLoAb4/mqdefault.jpg
