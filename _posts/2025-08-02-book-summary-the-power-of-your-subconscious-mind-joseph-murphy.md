@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Power of Your Subconscious Mind Summary – Joseph Murphy on Healing, Success, and Inner Guidance"
+title: "The Power of Your Subconscious Mind Summary – Joseph Murphy’s Key Ideas"
 date: 2025-08-02
 category: spirituality
 image: https://img.youtube.com/vi/SChuv953kZ4/mqdefault.jpg
