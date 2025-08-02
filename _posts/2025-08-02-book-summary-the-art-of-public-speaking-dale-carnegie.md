@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Art of Public Speaking Summary – Dale Carnegie’s Timeless Tips for Confident Communication"
+title: "The Art of Public Speaking Summary – Dale Carnegie’s Timeless Tips for Communication"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/aQkbl-hlhrI/mqdefault.jpg
