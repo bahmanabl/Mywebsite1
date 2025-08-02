@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Little Book of Common Sense Investing Summary – John Bogle’s Guide to Building Wealth with Index Funds"
+title: "The Little Book of Common Sense Investing – Wealth with Index Funds"
 date: 2025-08-02
 category: money
 image: https://img.youtube.com/vi/zK1VVnu03MA/mqdefault.jpg
