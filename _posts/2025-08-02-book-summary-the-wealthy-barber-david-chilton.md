@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Wealthy Barber Summary"
+title: "The Wealthy Barber Summary – David Chilton on Saving & Retirement"
 date: 2025-08-02
 category: money
 image: https://img.youtube.com/vi/NH57grvSHdk/mqdefault.jpg
