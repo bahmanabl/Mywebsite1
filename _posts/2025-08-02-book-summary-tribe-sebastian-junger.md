@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tribe Summary"
+title: "Tribe Summary – Sebastian Junger on Community and Belonging"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/otrtgIlLYJg/mqdefault.jpg
