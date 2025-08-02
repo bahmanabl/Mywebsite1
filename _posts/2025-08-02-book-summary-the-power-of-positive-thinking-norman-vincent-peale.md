@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Power of Positive Thinking Summary – Norman Vincent Peale on Faith, Optimism, and Inner Strength"
+title: "The Power of Positive Thinking Summary – Norman Vincent Peale’s Key Lessons"
 date: 2025-08-02
 category: spirituality
 image: https://img.youtube.com/vi/5U29wc9MHI8/mqdefault.jpg
