@@ -2,7 +2,7 @@
 layout: post
 title: "Zen Mind, Beginner's Mind Summary"
 date: 2025-08-02
-category: personal-development
+category: spirituality
 image: https://img.youtube.com/vi/S7lYnyJGESc/mqdefault.jpg
 youtube: https://www.youtube.com/embed/S7lYnyJGESc
 description: "Zen Mind, Beginner’s Mind book summary by Shunryu Suzuki reveals timeless Zen teachings on mindfulness, non-attachment, and inner peace. Learn how to live fully in the present without chasing external outcomes."
