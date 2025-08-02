@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The War of Art Summary – Steven Pressfield on Beating Resistance and Creating with Discipline"
+title: "The War of Art Summary – Steven Pressfield on Beating Resistance"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/LPgPATYpEZk/mqdefault.jpg
