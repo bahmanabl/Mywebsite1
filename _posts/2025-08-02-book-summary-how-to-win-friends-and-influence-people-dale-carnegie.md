@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Win Friends and Influence People Summary: Timeless Lessons from Dale Carnegie"
+title: "How to Win Friends and Influence People Summary: Lessons from Dale Carnegie"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/o88w8og_AuU/mqdefault.jpg
