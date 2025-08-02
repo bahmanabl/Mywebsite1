@@ -24,8 +24,7 @@ keywords: "Quiet summary, Susan Cain book, power of introverts, introvert vs ext
 <div style="height: 15px;"></div>
 <!-- ..................................................................... -->
 
-<br>
-## 
+
 ## What is the difference between introverted and extroverted people?
 
 
