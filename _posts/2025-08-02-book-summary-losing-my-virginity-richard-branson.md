@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Losing My Virginity Summary – Richard Branson’s Wild Adventures in Business and Life"
+title: "Losing My Virginity Summary – Richard Branson’s Wild Adventures"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/dgkwxnJrRO4/mqdefault.jpg
