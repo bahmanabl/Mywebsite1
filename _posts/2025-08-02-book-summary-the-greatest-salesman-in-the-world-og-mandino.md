@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Greatest Salesman in the World Summary – Og Mandino’s 10 Scrolls for Success and Inner Growth"
+title: "The Greatest Salesman in the World Summary – Og Mandino’s 10 Scrolls for Success"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/G6_GemBV_Oo/mqdefault.jpg
