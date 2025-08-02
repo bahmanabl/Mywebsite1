@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zen Mind, Beginner's Mind Summary"
+title: "Zen Mind, Beginner’s Mind Summary – Shunryu Suzuki on Mindfulness, Meditation, and Letting Go"
 date: 2025-08-02
 category: spirituality
 image: https://img.youtube.com/vi/S7lYnyJGESc/mqdefault.jpg
