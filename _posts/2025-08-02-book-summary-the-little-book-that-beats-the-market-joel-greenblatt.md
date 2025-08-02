@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Little Book That Beats the Market Summary – Joel Greenblatt’s Magic Formula for Outsmarting Mr. Market""
+title: "The Little Book That Beats the Market Summary – Joel Greenblatt’s Magic Formula for Outsmarting Mr. Market"
 date: 2025-08-02
 category: money
 image: https://img.youtube.com/vi/-mskEcCAXgA/mqdefault.jpg
@@ -13,7 +13,7 @@ keywords: "The Little Book That Beats the Market summary, Joel Greenblatt magic 
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
       src="https://www.youtube.com/embed/-mskEcCAXgA"
-      title="The Little Book That Beats the Market Summary – Joel Greenblatt’s Magic Formula for Outsmarting Mr. Market""
+      title="The Little Book That Beats the Market Summary – Joel Greenblatt’s Magic Formula for Outsmarting Mr. Market"
       allowfullscreen
       frameborder="0"
       style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
