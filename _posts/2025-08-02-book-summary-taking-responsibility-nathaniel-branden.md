@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taking Responsibility Summary – Nathaniel Branden on Self-Esteem and Personal Accountability"
+title: "Taking Responsibility Summary – Nathaniel Branden on Self-Esteem"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/1DL6ph3d-R0/mqdefault.jpg
