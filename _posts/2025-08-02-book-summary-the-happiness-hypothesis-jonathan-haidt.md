@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Happiness Hypothesis Summary – Jonathan Haidt on Real Happiness, Adversity, and the Need for Meaning"
+title: "The Happiness Hypothesis Summary – How Meaning Fuels Happiness"
 date: 2025-08-02
 category: psychology
 image: https://img.youtube.com/vi/8RAlhm-PE3E/mqdefault.jpg
