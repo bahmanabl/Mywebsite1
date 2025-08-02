@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "The Dangerous Reality of Dopamine Detox"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/pPXhXAc35Jo/mqdefault.jpg
@@ -13,7 +13,7 @@ keywords: "dopamine detox dangers, dopamine and motivation, reward system brain,
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
       src="https://www.youtube.com/embed/pPXhXAc35Jo"
-      title=""
+      title="The Dangerous Reality of Dopamine Detox"
       allowfullscreen
       frameborder="0"
       style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
