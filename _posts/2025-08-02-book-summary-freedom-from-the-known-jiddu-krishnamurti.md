@@ -2,7 +2,7 @@
 layout: post
 title: "Freedom from the Known Summary – Jiddu Krishnamurti on Awareness, Authority, and Meditation"
 date: 2025-08-02
-category: ppirituality
+category: spirituality
 image: https://img.youtube.com/vi/G0OQZ4WMa8M/mqdefault.jpg
 youtube: https://www.youtube.com/embed/G0OQZ4WMa8M
 description: "Explore Jiddu Krishnamurti’s ideas on self-awareness, freedom from authority, and true meditation in Freedom from the Known."
