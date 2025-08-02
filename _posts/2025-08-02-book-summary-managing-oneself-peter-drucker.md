@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Managing Oneself Summary – Peter Drucker on Knowing Your Strengths and Designing a Fulfilling Career""
+title: "Managing Oneself Summary – Peter Drucker on Knowing Your Strengths and Designing a Fulfilling Career"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/LCxteuXEoP0/mqdefault.jpg
@@ -13,7 +13,7 @@ keywords: "Managing Oneself summary, Peter Drucker book, self-awareness, feedbac
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
       src="https://www.youtube.com/embed/LCxteuXEoP0"
-      title="Managing Oneself Summary – Peter Drucker on Knowing Your Strengths and Designing a Fulfilling Career""
+      title="Managing Oneself Summary – Peter Drucker on Knowing Your Strengths and Designing a Fulfilling Career"
       allowfullscreen
       frameborder="0"
       style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
