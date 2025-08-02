@@ -53,9 +53,9 @@ Have you heard the name of Samuel Pierpont Langley? Probably not. But did you kn
 <br>
  
 In summary, every successful business, individual, and movement starts with why. It’s their reason for doing something. This is the basis of every decision they make and every message they give. By doing so, they attract loyal customers and achieve long-term success.
+
+
 <br>
-
-
 <p style="text-align: center;">
   <a href="https://amzn.to/3czEUUO" target="_blank" style="color: blue; text-decoration: underline; font-size: 20px;">
     This book on Amazon
