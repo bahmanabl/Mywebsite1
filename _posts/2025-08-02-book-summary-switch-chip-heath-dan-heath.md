@@ -2,7 +2,7 @@
 layout: post
 title: "Switch Book Summary"
 date: 2025-08-02
-category: personal-development
+category: psychology
 image: https://img.youtube.com/vi/Y_iQOJ0l7sk/mqdefault.jpg
 youtube: https://www.youtube.com/embed/Y_iQOJ0l7sk
 description: "Switch book summary by Chip and Dan Heath reveals a powerful framework for achieving lasting behavior change. Learn how to align logic, emotion, and environment to successfully direct change in personal and professional life."
