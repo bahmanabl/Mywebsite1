@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You Were Born Rich Summary – Bob Proctor on Unlocking Abundance Through Mindset and Habits"
+title: "You Were Born Rich Summary – Bob Proctor on Mindset & Abundance"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/NjaGuEHHUg4/mqdefault.jpg
