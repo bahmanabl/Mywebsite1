@@ -53,6 +53,7 @@ If you look at societies when they face a natural disaster, you’d see that peo
 <br>
  
 So in summary, in societies that honor individualism, many suffer from loneliness and isolation. Surprisingly at the times of war and natural disaster, people come together and forget their differences. That’s because extreme events simplify life and revive the social bond. To have a happier and more peaceful life, we need to find ways of creating a sense of tribal belonging in times of peace. 
+
 <br>
 <p style="text-align: center;">
   <a href="https://amzn.to/3rn2Txu" target="_blank" style="color: blue; text-decoration: underline; font-size: 20px;">
