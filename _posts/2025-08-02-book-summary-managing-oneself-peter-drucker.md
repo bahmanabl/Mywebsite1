@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Managing Oneself Summary – Peter Drucker on Knowing Your Strengths and Designing a Fulfilling Career"
+title: "Managing Oneself Summary – Peter Drucker on Strengths and Success"
 date: 2025-08-02
 category: personal-development
 image: https://img.youtube.com/vi/LCxteuXEoP0/mqdefault.jpg
