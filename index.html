@@ -30,7 +30,7 @@ s"
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
   ">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:15%}
       <!-- Post preview box -->
       <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <a href="{{ post.url | relative_url }}">
