@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meditations Summary – Marcus Aurelius’ Timeless Stoic Wisdom for Inner Peace and Strength"
+title: "Meditations Summary – Marcus Aurelius’ Timeless Stoic Wisdom for Inner Peace"
 date: 2025-08-02
 category: spirituality
 image: https://img.youtube.com/vi/z7nIn6AgBEU/mqdefault.jpg
