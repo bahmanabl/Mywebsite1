@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The Little Book of Common Sense Investing Summary – John Bogle’s Guide to Building Wealth with Index Funds"
+date: 2025-08-02
+category: money
+image: https://img.youtube.com/vi/zK1VVnu03MA/mqdefault.jpg
+youtube: https://www.youtube.com/embed/zK1VVnu03MA
+description: "Learn why John Bogle recommends low-cost index funds as the smartest way to invest and build long-term wealth, no expertise needed."
+keywords: "The Little Book of Common Sense Investing summary, John Bogle index fund, S&P 500 investing, VOO ETF, passive investing strategy"
+---
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
+    <iframe 
+      src="https://www.youtube.com/embed/zK1VVnu03MA"
+      title="The Little Book of Common Sense Investing Summary – John Bogle’s Guide to Building Wealth with Index Funds"
+      allowfullscreen
+      frameborder="0"
+      style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
+    </iframe>
+  </div>
+</div>
+
+<div style="height: 15px;"></div>
+<!-- ..................................................................... -->
+
+Have you ever wondered what is the best way of investing your money? There are so many things you can invest in. You can invest in real-state, you can buy individual stocks, and on and on. But what if you don’t have any knowledge about real estate or the stock market? You may say I can't invest in these because I don’t know anything about them. And that sounds reasonable to me. That’s why so many people go to the financial professionals to do the job of investing for them. These so-called experts claim that they can beat the market and they charge crazy fees for that. When you decide to invest with these so-called experts, you have to put your hard-earned money in actively managed funds and hope that the people who run the fund can beat the market by actively buying and selling. But if you look at the history, these actively managed funds almost never beat the market, and not only that, they are very expensive too and the costs of investing in such a fund are very high. As an investor, you’d pay the brokerage commissions, the fund manager’s fees, and so forth. All those fees add up. So, if these actively managed funds are not good and buying individual stocks is risky, then where should we invest our money? The answer is actually very easy. You should put most of your money in low-cost index funds. An index fund holds a diversified portfolio that reflects the financial market and they don’t try to beat the market. Index funds track the performance of all stocks included in the index without betting on individual stocks. You know what is interesting is that these index funds almost always outperform actively managed funds in the long term. Now there are lots of index funds you can choose from, which one should we choose? Easy answer, choose the cheapest index fund. John c. bogle, the author of the book called Little Book of Common Sense Investing, which was also the funder of the vanguard investing group suggests putting all your investment money on an index that tracks the S&P 500. The S&P 500 index basically tracks the 500 largest companies listed on the stock exchange in the United States. Vanguard 500 Index Fund ETF with market symbol VOO is one of the cheapest index funds out there that does this and if you are thinking about investing and didn’t know where to put your money, Bogle says this is the place you should put your money in. Warren Buffet, another investment guru, also frequently recommends that the majority of investors that don’t have time to study the market should put their money on the S&P 500 index. Now, how much you can expect to gain by investing in such a simple way? Let’s look into the history. The index has returned a historic annualized average return of around 11.88% since its 1957 inception through the end of 2021. From 2001 to 2021 the average annualized return on the S&P 500 was 9.87%. Based on these data, let’s assume the annualized return would be only 10%. Let’s assume you start investing and put 10,000$ into S&P 500 index fund like VOO. And also let’s assume you keep putting 500$ every month into the fund. If you keep doing this only for 30 years, do you know how much money you would have? You’ll have 1,328,618$ and you didn’t even spend a minute studying the market. After 30 years, if you just keep doing this for 10 more years, so 40 years in total, do you know how much money you would have? 3,699,046.42$. So becoming financially independent actually doesn't take that much of a brain. If you start, let’s say at age 20 and just put 100$ each week into the index fund, you end up with close to 4 million dollars at the age of 60. Did you know that the average net worth for Americans when they reach 60 is 80,000$? I mean how do they do that? I don’t know about you, but I don’t want to end up like most others in this country. And the crazy thing is that becoming financially independent doesn’t need that much effort or knowledge or it even doesn’t need you to make lots of money. You just need to have a plan and I think I gave you a very simple and practical plan in this video. Most gurus out there recommend this and I also am putting most of my money in VOO. You decide for yourself. What usually keeps people from becoming financially independent is ignorance. They just simply don’t know. They think they have to make lots of money or know all the details of the market. But as my teacher Jim Rohn taught me, what you don’t know will hurt you. Now you know this, but whether you take action on that or not depends only on you. Let me ask you a question, do you want to be financially independent when you reach 60, or do you want to end up like most others around you?
+
+
