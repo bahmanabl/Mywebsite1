@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "You2 by Price Pritchett: How to Make Quantum Leaps in Life"
