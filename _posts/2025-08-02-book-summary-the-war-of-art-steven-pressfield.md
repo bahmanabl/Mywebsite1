@@ -9,6 +9,7 @@ description: "Discover how to overcome procrastination and unlock your creative 
 keywords: "The War of Art summary, Steven Pressfield book, overcoming Resistance, creativity discipline, professional mindset, beating procrastination, turn pro, artist productivity"
 ---
 
+
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
