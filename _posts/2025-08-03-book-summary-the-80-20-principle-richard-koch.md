@@ -55,7 +55,6 @@ What’s the point of working so hard if you’re not enjoying life, right? Most
 When I was focusing only on my research, I realized I was actually less productive. I was burning out. But when I started going to the events that made me happy and connected me with like-minded people, something amazing happened. My overall life quality improved, and surprisingly, my research got better too. Why? Because my mental health improved, and I was thinking more clearly. It turns out that when you’re happy and balanced, everything else falls into place.
 
 <br>
-## 
 So there you have it! The 80/20 Principle isn’t just a work hack; it’s a life hack. By focusing on the most important tasks and the things that truly make you happy, you can achieve more with less effort and enjoy life more.
 
 If you want the infographic summary of the book, just click the link below, and I’ll be happy to send it to you. 
