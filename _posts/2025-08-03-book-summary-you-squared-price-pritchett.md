@@ -14,7 +14,7 @@ keywords: "You Squared, Price Pritchett, You Squared summary, quantum leap succe
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
       src="https://www.youtube.com/embed/MZv_TUcLCAI"
-      title="80/20 Principle Summary"
+      title="You2 by Price Pritchett"
       allowfullscreen
       frameborder="0"
       style="position: absolute; inset: 0; width: 100%; height: 100%; border-radius: 16px;">
