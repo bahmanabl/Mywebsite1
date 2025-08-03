@@ -3,8 +3,8 @@ layout: post
 title: "80/20 Principle Summary:  Peter Drucker Tips on Boosting Productivity"
 date: 2025-08-03
 category: personal-development
-image: https://img.youtube.com/vi/LCxteuXEoP0/mqdefault.jpg
-youtube: https://www.youtube.com/embed/LCxteuXEoP0
+image: https://img.youtube.com/vi/AbDgGJ1nJig/mqdefault.jpg
+youtube: https://www.youtube.com/embed/AbDgGJ1nJig
 description: "Unlock the secrets of efficiency with Richard Koch’s 'The 80/20 Principle'. Learn how focusing on the vital 20% can boost productivity, happiness, and success in work and life."
 keywords: "The 80/20 Principle, Richard Koch, The 80/20 Principle summary, productivity tips, Pareto principle, time management, focus strategies, life optimization"
 ---
@@ -12,7 +12,7 @@ keywords: "The 80/20 Principle, Richard Koch, The 80/20 Principle summary, produ
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="aspect-ratio: 16 / 9; width: 95%; max-width: 700px; position: relative;">
     <iframe 
-      src="https://www.youtube.com/embed/LCxteuXEoP0"
+      src="https://www.youtube.com/embed/AbDgGJ1nJig"
       title="80/20 Principle Summary"
       allowfullscreen
       frameborder="0"
