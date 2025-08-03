@@ -29,7 +29,7 @@ Most of us at some point in our lives come up against a major setback, it could 
 
 The three know-thyself skills are designed to guide you toward a better understanding of how your mind works. They will help build your self-awareness.
 
-
+ 
 <br>
 ## Key #1: Learning your ABCs
 
