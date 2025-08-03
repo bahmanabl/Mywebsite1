@@ -64,7 +64,7 @@ If you want the infographic summary of the book, just click the link below, and 
 <br>
 <p style="text-align: center;">
   <a href="https://summary.readandgrowwise.com/8020principle" target="_blank" style="color: blue; text-decoration: underline; font-size: 20px;">
-    One Page pdf Summary
+    Infographic Summary
   </a>
 </p>
 <p style="text-align: center;">
