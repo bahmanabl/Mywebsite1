@@ -2,9 +2,8 @@
 layout: default
 title: Spirituality
 permalink: /spirituality/
-description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
-keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
-s"
+description: "Uncover deep spiritual lessons from the most impactful books on purpose, presence, and meaning—summarized in short, inspiring reads."
+keywords: "spirituality books, mindfulness, meaning of life, purpose, meditation, consciousness, spiritual growth"
 ---
 {% include category-bar.html %}
 
