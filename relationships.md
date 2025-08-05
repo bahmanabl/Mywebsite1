@@ -2,9 +2,8 @@
 layout: default
 title: Relationships
 permalink: /relationships/
-description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
-keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
-s"
+description: "Discover transformative insights on love, dating, and connection—summarized from the best relationship books ever written."
+keywords: "relationship books, dating advice, communication, love, emotional intelligence, book summaries"
 ---
 {% include category-bar.html %}
 
