@@ -2,9 +2,8 @@
 layout: default
 title: Psychology
 permalink: /psychology/
-description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
-keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
-s"
+description: "Explore short summaries of the best psychology books—unlocking deep insights into behavior, decision-making, and the human mind."
+keywords: "psychology books, behavior science, human mind, decision making, cognitive bias, book summaries"
 ---
 {% include category-bar.html %}
 
