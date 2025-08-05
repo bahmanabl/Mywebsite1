@@ -2,9 +2,8 @@
 layout: default
 title: Money
 permalink: /money/
-description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
-keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
-s"
+description: "Learn the life-changing money lessons from the best books on wealth, investing, and financial freedom—all in short, powerful summaries."
+keywords: "money books, financial freedom, wealth building, investing, personal finance, finance book summaries"
 ---
 {% include category-bar.html %}
 
