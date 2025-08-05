@@ -2,9 +2,8 @@
 layout: default
 title: Personal Development
 permalink: /personal-development/
-description: "RAGWise delivers short, insightful, and animated book summaries on money, mindset, relationships, spirituality, and personal growth—designed to make life-changing ideas easy to understand and apply."
-keywords: "book summaries, book reviews, RAGWise, best books to read, top book recommendations, book insights, personal development books, self-help book summaries, psychology book summaries, finance book summaries
-s"
+description: "Discover the most powerful personal growth lessons from the best self-help books—summarized in short, life-changing reads."
+keywords: "personal development books, self-help book summaries, productivity, confidence, growth mindset, best self-help books"
 ---
 {% include category-bar.html %}
 
