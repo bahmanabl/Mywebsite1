@@ -21,14 +21,19 @@ s"
   width: 100%;
   box-sizing: border-box;
 ">
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
-  {% for post in site.categories["personal-development"] %}
-    <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image }}" alt="thumbnail" style="width: 100%; border-radius: 8px;">
-        <h3 style="text-align: center;">{{ post.title }}</h3>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+    <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  ">
+    {% for post in site.categories.personal-development %}
+      <!-- Post preview box -->
+      <div style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image }}" alt="Thumbnail for {{ post.title }}" style="width: 100%; border-radius: 8px;">
+          <h3 style="text-align: center;">{{ post.title }}</h3>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </div>
